@@ -1,0 +1,1205 @@
+{
+  "services": [
+    {
+      "id": "1795519324273",
+      "name": "Standard Apartment Cleaning",
+      "shortDescription": "Kitchen, bathroom, living areas, bedrooms and balcony. Ideal for regular maintenance.",
+      "description": "",
+      "category": "cleaning",
+      "features": [],
+      "active": true,
+      "order": 1,
+      "image": "/uploads/services/1795520014874-cropped-service.jpg"
+    },
+    {
+      "id": "1795520092690",
+      "name": "Standard House Cleaning",
+      "shortDescription": "Complete house clean including kitchen, bathrooms, living areas, bedrooms and patio.",
+      "description": "",
+      "category": "cleaning",
+      "features": [],
+      "active": true,
+      "order": 2,
+      "image": "/uploads/services/1795520092681-cropped-service.jpg"
+    },
+    {
+      "id": "1795520161290",
+      "name": "Apartment Spring Cleaning",
+      "shortDescription": "Deep seasonal clean with organisation of cupboards, appliances, fridge interior and full refresh.",
+      "description": "",
+      "category": "cleaning",
+      "features": [],
+      "active": true,
+      "order": 3,
+      "image": "/uploads/services/1795520161287-cropped-service.jpg"
+    },
+    {
+      "id": "1795520319351",
+      "name": "Apartment Deep Cleaning",
+      "shortDescription": "Move-out / move-in deep clean for empty apartments — cupboards, appliances, walls, balcony.",
+      "description": "",
+      "category": "cleaning",
+      "features": [],
+      "active": true,
+      "order": 4,
+      "image": "/uploads/services/1795520319347-cropped-service.jpg"
+    },
+    {
+      "id": "1795520407588",
+      "name": "Empty House Deep Cleaning",
+      "shortDescription": "Thorough empty house deep clean including garage, patio and all interior surfaces.",
+      "description": "",
+      "category": "cleaning",
+      "features": [],
+      "active": true,
+      "order": 5,
+      "image": "/uploads/services/1795520407585-cropped-service.jpg"
+    },
+    {
+      "id": "1795520793170",
+      "name": "Weekly Maid Services",
+      "shortDescription": "Once-a-week cleaning with optional laundry & ironing. No call-out fee in limited areas.",
+      "description": "",
+      "category": "cleaning",
+      "features": [],
+      "active": true,
+      "order": 6,
+      "image": "/uploads/services/1795520793164-cropped-service.jpg"
+    },
+    {
+      "id": "1795521131148",
+      "name": "Rugs & Carpet Deep Cleaning",
+      "shortDescription": "Extra small to XLarge rugs, fitted carpets for rooms, lounges and commercial spaces.",
+      "description": "",
+      "category": "specialised",
+      "features": [],
+      "active": true,
+      "order": 7,
+      "image": "/uploads/services/1795521131145-cropped-service.jpg"
+    },
+    {
+      "id": "1795521212655",
+      "name": "Couch Deep Cleaning",
+      "shortDescription": "1 to 6 seater couches and L-shaped sofas. Professional deep clean for fabric and leather.",
+      "description": "",
+      "category": "specialised",
+      "features": [],
+      "active": true,
+      "order": 8,
+      "image": "/uploads/services/1795521212647-cropped-service.jpg"
+    },
+    {
+      "id": "1795521254948",
+      "name": "Mattress, Sleigh Bed & Headboard",
+      "shortDescription": "Deep clean for single to king mattresses, sleigh beds and headboards. Extra for white items.",
+      "description": "",
+      "category": "specialised",
+      "features": [],
+      "active": true,
+      "order": 9,
+      "image": "/uploads/services/1795521254942-cropped-service.jpg"
+    }
+  ],
+  "pricing": [
+    {
+      "id": "17941294502920",
+      "category": "standard",
+      "serviceId": "Standard Apartment Cleaning",
+      "label": "Bachelor / Studio – 1 Bedroom",
+      "price": 300,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502921",
+      "category": "standard",
+      "serviceId": "Standard Apartment Cleaning",
+      "label": "2 Bedroom Apartment",
+      "price": 350,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502922",
+      "category": "standard",
+      "serviceId": "Standard Apartment Cleaning",
+      "label": "3 Bedroom Apartment",
+      "price": 450,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502923",
+      "category": "standard",
+      "serviceId": "Standard House Cleaning",
+      "label": "2 Bedroom House",
+      "price": 450,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502924",
+      "category": "standard",
+      "serviceId": "Standard House Cleaning",
+      "label": "3 Bedroom House",
+      "price": 550,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502925",
+      "category": "standard",
+      "serviceId": "Standard House Cleaning",
+      "label": "4 Bedroom House",
+      "price": 700,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502926",
+      "category": "standard",
+      "serviceId": "Standard House Cleaning",
+      "label": "5 Bedroom House",
+      "price": 900,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502927",
+      "category": "spring",
+      "serviceId": "Apartment Spring Cleaning",
+      "label": "Bachelor / Studio – 1 Bedroom",
+      "price": 600,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502928",
+      "category": "spring",
+      "serviceId": "Apartment Spring Cleaning",
+      "label": "2 Bedroom Apartment",
+      "price": 700,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "17941294502929",
+      "category": "spring",
+      "serviceId": "Apartment Spring Cleaning",
+      "label": "3 Bedroom Apartment",
+      "price": 900,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029210",
+      "category": "deep",
+      "serviceId": "Apartment Deep Cleaning",
+      "label": "Bachelor / Studio – 1 Bedroom",
+      "price": 1500,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029211",
+      "category": "deep",
+      "serviceId": "Apartment Deep Cleaning",
+      "label": "2 Bedroom Apartment",
+      "price": 2000,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029212",
+      "category": "deep",
+      "serviceId": "Apartment Deep Cleaning",
+      "label": "3 Bedroom Apartment",
+      "price": 2500,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029213",
+      "category": "deep",
+      "serviceId": "House Deep Cleaning (Occupied)",
+      "label": "2 Bedroom House",
+      "price": 3300,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029214",
+      "category": "deep",
+      "serviceId": "House Deep Cleaning (Occupied)",
+      "label": "3 Bedroom House",
+      "price": 3900,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029215",
+      "category": "deep",
+      "serviceId": "House Deep Cleaning (Occupied)",
+      "label": "4 Bedroom House",
+      "price": 4500,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029216",
+      "category": "deep",
+      "serviceId": "House Deep Cleaning (Occupied)",
+      "label": "5 Bedroom House",
+      "price": 5100,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029217",
+      "category": "moveout",
+      "serviceId": "Empty Apartment Deep Cleaning",
+      "label": "Bachelor / Studio – 1 Bedroom",
+      "price": 1100,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029218",
+      "category": "moveout",
+      "serviceId": "Empty Apartment Deep Cleaning",
+      "label": "2 Bedroom Apartment",
+      "price": 1300,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029219",
+      "category": "moveout",
+      "serviceId": "Empty Apartment Deep Cleaning",
+      "label": "3 Bedroom Apartment",
+      "price": 1500,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029220",
+      "category": "moveout",
+      "serviceId": "Empty House Deep Cleaning",
+      "label": "2 Bedroom House",
+      "price": 2200,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029221",
+      "category": "moveout",
+      "serviceId": "Empty House Deep Cleaning",
+      "label": "3 Bedroom House",
+      "price": 3200,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029222",
+      "category": "moveout",
+      "serviceId": "Empty House Deep Cleaning",
+      "label": "4 Bedroom House",
+      "price": 4200,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029223",
+      "category": "moveout",
+      "serviceId": "Empty House Deep Cleaning",
+      "label": "5 Bedroom House",
+      "price": 5200,
+      "unit": "per clean",
+      "notes": ""
+    },
+    {
+      "id": "179412945029224",
+      "category": "weekly",
+      "serviceId": "Weekly Maid (Incl. Laundry & Ironing)",
+      "label": "Bachelor / Studio – 1 Bedroom",
+      "price": 350,
+      "unit": "per week",
+      "notes": ""
+    },
+    {
+      "id": "179412945029225",
+      "category": "weekly",
+      "serviceId": "Weekly Maid (Incl. Laundry & Ironing)",
+      "label": "2 Bedroom Apartment",
+      "price": 400,
+      "unit": "per week",
+      "notes": ""
+    },
+    {
+      "id": "179412945029226",
+      "category": "weekly",
+      "serviceId": "Weekly Maid (Incl. Laundry & Ironing)",
+      "label": "3 Bedroom Apartment",
+      "price": 450,
+      "unit": "per week",
+      "notes": ""
+    },
+    {
+      "id": "179412945029227",
+      "category": "weekly",
+      "serviceId": "Cleaning Only (Once a Week)",
+      "label": "Bachelor / Studio – 1 Bedroom",
+      "price": 250,
+      "unit": "per week",
+      "notes": ""
+    },
+    {
+      "id": "179412945029228",
+      "category": "weekly",
+      "serviceId": "Cleaning Only (Once a Week)",
+      "label": "2 Bedroom Apartment",
+      "price": 300,
+      "unit": "per week",
+      "notes": ""
+    },
+    {
+      "id": "179412945029229",
+      "category": "weekly",
+      "serviceId": "Cleaning Only (Once a Week)",
+      "label": "3 Bedroom Apartment",
+      "price": 350,
+      "unit": "per week",
+      "notes": ""
+    },
+    {
+      "id": "179412945029230",
+      "category": "upholstery",
+      "serviceId": "Rugs & Carpet Deep Cleaning",
+      "label": "Extra Small Rug",
+      "price": 250,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029231",
+      "category": "upholstery",
+      "serviceId": "Rugs & Carpet Deep Cleaning",
+      "label": "Small Rug",
+      "price": 300,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029232",
+      "category": "upholstery",
+      "serviceId": "Rugs & Carpet Deep Cleaning",
+      "label": "Medium Rug",
+      "price": 350,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029233",
+      "category": "upholstery",
+      "serviceId": "Rugs & Carpet Deep Cleaning",
+      "label": "Large Rug",
+      "price": 400,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029234",
+      "category": "upholstery",
+      "serviceId": "Rugs & Carpet Deep Cleaning",
+      "label": "XLarge Rug",
+      "price": 450,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029235",
+      "category": "upholstery",
+      "serviceId": "Rugs & Carpet Deep Cleaning",
+      "label": "Fitted Carpet – Standard Room",
+      "price": 500,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029236",
+      "category": "upholstery",
+      "serviceId": "Couch Deep Cleaning",
+      "label": "1 Seater",
+      "price": 250,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029237",
+      "category": "upholstery",
+      "serviceId": "Couch Deep Cleaning",
+      "label": "2 Seater",
+      "price": 450,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029238",
+      "category": "upholstery",
+      "serviceId": "Couch Deep Cleaning",
+      "label": "3 Seater",
+      "price": 550,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029239",
+      "category": "upholstery",
+      "serviceId": "Couch Deep Cleaning",
+      "label": "4 Seater",
+      "price": 650,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029240",
+      "category": "upholstery",
+      "serviceId": "Couch Deep Cleaning",
+      "label": "5 Seater",
+      "price": 700,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029241",
+      "category": "upholstery",
+      "serviceId": "Couch Deep Cleaning",
+      "label": "6 Seater",
+      "price": 800,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029242",
+      "category": "upholstery",
+      "serviceId": "L-Couch Deep Cleaning",
+      "label": "3 Seater",
+      "price": 600,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029243",
+      "category": "upholstery",
+      "serviceId": "L-Couch Deep Cleaning",
+      "label": "4 Seater",
+      "price": 700,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029244",
+      "category": "upholstery",
+      "serviceId": "L-Couch Deep Cleaning",
+      "label": "5 Seater",
+      "price": 800,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029245",
+      "category": "upholstery",
+      "serviceId": "L-Couch Deep Cleaning",
+      "label": "6 Seater",
+      "price": 900,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029246",
+      "category": "upholstery",
+      "serviceId": "Mattress Deep Cleaning",
+      "label": "Single Bed",
+      "price": 350,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029247",
+      "category": "upholstery",
+      "serviceId": "Mattress Deep Cleaning",
+      "label": "Double Bed",
+      "price": 500,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029248",
+      "category": "upholstery",
+      "serviceId": "Mattress Deep Cleaning",
+      "label": "Queen Bed",
+      "price": 550,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029249",
+      "category": "upholstery",
+      "serviceId": "Mattress Deep Cleaning",
+      "label": "King Bed",
+      "price": 600,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029250",
+      "category": "upholstery",
+      "serviceId": "Sleigh Bed Deep Cleaning",
+      "label": "Single",
+      "price": 400,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029251",
+      "category": "upholstery",
+      "serviceId": "Sleigh Bed Deep Cleaning",
+      "label": "Double",
+      "price": 450,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029252",
+      "category": "upholstery",
+      "serviceId": "Sleigh Bed Deep Cleaning",
+      "label": "Queen",
+      "price": 500,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029253",
+      "category": "upholstery",
+      "serviceId": "Sleigh Bed Deep Cleaning",
+      "label": "King",
+      "price": 550,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029254",
+      "category": "upholstery",
+      "serviceId": "Headboard Deep Cleaning",
+      "label": "Single",
+      "price": 200,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029255",
+      "category": "upholstery",
+      "serviceId": "Headboard Deep Cleaning",
+      "label": "Double",
+      "price": 250,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029256",
+      "category": "upholstery",
+      "serviceId": "Headboard Deep Cleaning",
+      "label": "Queen",
+      "price": 300,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029257",
+      "category": "upholstery",
+      "serviceId": "Headboard Deep Cleaning",
+      "label": "King",
+      "price": 350,
+      "unit": "per item",
+      "notes": ""
+    },
+    {
+      "id": "179412945029258",
+      "category": "events",
+      "serviceId": "Pre & Post Event Cleaning",
+      "label": "10–30 guests",
+      "price": 1500,
+      "unit": "from",
+      "notes": ""
+    },
+    {
+      "id": "179412945029259",
+      "category": "events",
+      "serviceId": "Pre & Post Event Cleaning",
+      "label": "40–60 guests",
+      "price": 2000,
+      "unit": "from",
+      "notes": ""
+    },
+    {
+      "id": "179412945029260",
+      "category": "events",
+      "serviceId": "Pre & Post Event Cleaning",
+      "label": "70+ guests",
+      "price": 3500,
+      "unit": "from",
+      "notes": ""
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1795521998256",
+      "filename": "1795521998253-cropped-image29.jpeg",
+      "originalName": "cropped-image29.jpeg",
+      "url": "/uploads/gallery/1795521998253-cropped-image29.jpeg",
+      "category": "events",
+      "isLegacy": false
+    },
+    {
+      "id": "1795521998262",
+      "filename": "1795521998260-cropped-image31.jpeg",
+      "originalName": "cropped-image31.jpeg",
+      "url": "/uploads/gallery/1795521998260-cropped-image31.jpeg",
+      "category": "events",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950885",
+      "filename": "1795522950879-cropped-image2.jpeg",
+      "originalName": "cropped-image2.jpeg",
+      "url": "/uploads/gallery/1795522950879-cropped-image2.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950896",
+      "filename": "1795522950893-cropped-image3.jpeg",
+      "originalName": "cropped-image3.jpeg",
+      "url": "/uploads/gallery/1795522950893-cropped-image3.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950907",
+      "filename": "1795522950904-cropped-image4.jpeg",
+      "originalName": "cropped-image4.jpeg",
+      "url": "/uploads/gallery/1795522950904-cropped-image4.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950920",
+      "filename": "1795522950912-image5.mp4",
+      "originalName": "image5.mp4",
+      "url": "/uploads/gallery/1795522950912-image5.mp4",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950926",
+      "filename": "1795522950924-cropped-image13.jpeg",
+      "originalName": "cropped-image13.jpeg",
+      "url": "/uploads/gallery/1795522950924-cropped-image13.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950932",
+      "filename": "1795522950930-cropped-image14.jpeg",
+      "originalName": "cropped-image14.jpeg",
+      "url": "/uploads/gallery/1795522950930-cropped-image14.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950939",
+      "filename": "1795522950937-cropped-image17.jpeg",
+      "originalName": "cropped-image17.jpeg",
+      "url": "/uploads/gallery/1795522950937-cropped-image17.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950946",
+      "filename": "1795522950944-cropped-image19.jpeg",
+      "originalName": "cropped-image19.jpeg",
+      "url": "/uploads/gallery/1795522950944-cropped-image19.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950952",
+      "filename": "1795522950950-cropped-image20.jpeg",
+      "originalName": "cropped-image20.jpeg",
+      "url": "/uploads/gallery/1795522950950-cropped-image20.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950958",
+      "filename": "1795522950956-cropped-image21.jpeg",
+      "originalName": "cropped-image21.jpeg",
+      "url": "/uploads/gallery/1795522950956-cropped-image21.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950964",
+      "filename": "1795522950962-cropped-image22.jpeg",
+      "originalName": "cropped-image22.jpeg",
+      "url": "/uploads/gallery/1795522950962-cropped-image22.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950971",
+      "filename": "1795522950969-cropped-image28.jpeg",
+      "originalName": "cropped-image28.jpeg",
+      "url": "/uploads/gallery/1795522950969-cropped-image28.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950976",
+      "filename": "1795522950975-cropped-3ewafsdxzvc.jpeg",
+      "originalName": "cropped-3ewafsdxzvc.jpeg",
+      "url": "/uploads/gallery/1795522950975-cropped-3ewafsdxzvc.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950982",
+      "filename": "1795522950980-cropped-3tewgbfdstrw.jpeg",
+      "originalName": "cropped-3tewgbfdstrw.jpeg",
+      "url": "/uploads/gallery/1795522950980-cropped-3tewgbfdstrw.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950988",
+      "filename": "1795522950986-cropped-3unywfdhgdbfv.jpeg",
+      "originalName": "cropped-3unywfdhgdbfv.jpeg",
+      "url": "/uploads/gallery/1795522950986-cropped-3unywfdhgdbfv.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522950993",
+      "filename": "1795522950991-cropped-asgdvzxc-.jpeg",
+      "originalName": "cropped-asgdvzxc .jpeg",
+      "url": "/uploads/gallery/1795522950991-cropped-asgdvzxc-.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951000",
+      "filename": "1795522950997-cropped-awdvsgvre.jpeg",
+      "originalName": "cropped-awdvsgvre.jpeg",
+      "url": "/uploads/gallery/1795522950997-cropped-awdvsgvre.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951006",
+      "filename": "1795522951004-cropped-efawds.jpeg",
+      "originalName": "cropped-efawds.jpeg",
+      "url": "/uploads/gallery/1795522951004-cropped-efawds.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951012",
+      "filename": "1795522951010-cropped-ersadhj46wtefd.jpeg",
+      "originalName": "cropped-ersadhj46wtefd.jpeg",
+      "url": "/uploads/gallery/1795522951010-cropped-ersadhj46wtefd.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951018",
+      "filename": "1795522951016-cropped-ewfsd.jpeg",
+      "originalName": "cropped-ewfsd.jpeg",
+      "url": "/uploads/gallery/1795522951016-cropped-ewfsd.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951024",
+      "filename": "1795522951022-cropped-ewtayh75yregf.jpeg",
+      "originalName": "cropped-ewtayh75yregf.jpeg",
+      "url": "/uploads/gallery/1795522951022-cropped-ewtayh75yregf.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951030",
+      "filename": "1795522951028-cropped-gdfcvxz-weraf.jpeg",
+      "originalName": "cropped-gdfcvxz weraf.jpeg",
+      "url": "/uploads/gallery/1795522951028-cropped-gdfcvxz-weraf.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951037",
+      "filename": "1795522951035-cropped-hywtbfacvbtwe.jpeg",
+      "originalName": "cropped-hywtbfacvbtwe.jpeg",
+      "url": "/uploads/gallery/1795522951035-cropped-hywtbfacvbtwe.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951042",
+      "filename": "1795522951041-cropped-q34w-yg45tew.jpeg",
+      "originalName": "cropped-q34w yg45tew.jpeg",
+      "url": "/uploads/gallery/1795522951041-cropped-q34w-yg45tew.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951049",
+      "filename": "1795522951047-cropped-q43wgvdsaxc.jpeg",
+      "originalName": "cropped-q43wgvdsaxc.jpeg",
+      "url": "/uploads/gallery/1795522951047-cropped-q43wgvdsaxc.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951057",
+      "filename": "1795522951054-cropped-WhatsApp-Image-2026-11-04-at-10.44.47.jpeg",
+      "originalName": "cropped-WhatsApp Image 2026-11-04 at 10.44.47.jpeg",
+      "url": "/uploads/gallery/1795522951054-cropped-WhatsApp-Image-2026-11-04-at-10.44.47.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951063",
+      "filename": "1795522951061-cropped-WhatsApp-Image-2026-11-04-at-10.46.27.jpeg",
+      "originalName": "cropped-WhatsApp Image 2026-11-04 at 10.46.27.jpeg",
+      "url": "/uploads/gallery/1795522951061-cropped-WhatsApp-Image-2026-11-04-at-10.46.27.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951071",
+      "filename": "1795522951069-cropped-yqr2tdabvcx.jpeg",
+      "originalName": "cropped-yqr2tdabvcx.jpeg",
+      "url": "/uploads/gallery/1795522951069-cropped-yqr2tdabvcx.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951078",
+      "filename": "1795522951076-cropped-yruhndb6uy.jpeg",
+      "originalName": "cropped-yruhndb6uy.jpeg",
+      "url": "/uploads/gallery/1795522951076-cropped-yruhndb6uy.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795522951086",
+      "filename": "1795522951083-cropped-ytwgadbtged.jpeg",
+      "originalName": "cropped-ytwgadbtged.jpeg",
+      "url": "/uploads/gallery/1795522951083-cropped-ytwgadbtged.jpeg",
+      "category": "cleaning",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055500",
+      "filename": "1795523055489-cropped-2hteqbfvad.jpeg",
+      "originalName": "cropped-2hteqbfvad.jpeg",
+      "url": "/uploads/gallery/1795523055489-cropped-2hteqbfvad.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055508",
+      "filename": "1795523055505-cropped-juydnfgbyetyt.jpeg",
+      "originalName": "cropped-juydnfgbyetyt.jpeg",
+      "url": "/uploads/gallery/1795523055505-cropped-juydnfgbyetyt.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055518",
+      "filename": "1795523055515-cropped-mrhntgbdy.jpeg",
+      "originalName": "cropped-mrhntgbdy.jpeg",
+      "url": "/uploads/gallery/1795523055515-cropped-mrhntgbdy.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055528",
+      "filename": "1795523055524-cropped-rjyhntegbf.jpeg",
+      "originalName": "cropped-rjyhntegbf.jpeg",
+      "url": "/uploads/gallery/1795523055524-cropped-rjyhntegbf.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055535",
+      "filename": "1795523055532-cropped-rudhyfbyethy.jpeg",
+      "originalName": "cropped-rudhyfbyethy.jpeg",
+      "url": "/uploads/gallery/1795523055532-cropped-rudhyfbyethy.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055549",
+      "filename": "1795523055545-cropped-srthdfv.jpeg",
+      "originalName": "cropped-srthdfv.jpeg",
+      "url": "/uploads/gallery/1795523055545-cropped-srthdfv.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055558",
+      "filename": "1795523055556-cropped-teyihudfxghjyg.jpeg",
+      "originalName": "cropped-teyihudfxghjyg.jpeg",
+      "url": "/uploads/gallery/1795523055556-cropped-teyihudfxghjyg.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055569",
+      "filename": "1795523055567-cropped-tukjfhdgsheg.jpeg",
+      "originalName": "cropped-tukjfhdgsheg.jpeg",
+      "url": "/uploads/gallery/1795523055567-cropped-tukjfhdgsheg.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055577",
+      "filename": "1795523055574-cropped-weasghdhfnjfdy.jpeg",
+      "originalName": "cropped-weasghdhfnjfdy.jpeg",
+      "url": "/uploads/gallery/1795523055574-cropped-weasghdhfnjfdy.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055585",
+      "filename": "1795523055583-cropped-WhatsApp-Image-2026-11-04-at-10.44.22.jpeg",
+      "originalName": "cropped-WhatsApp Image 2026-11-04 at 10.44.22.jpeg",
+      "url": "/uploads/gallery/1795523055583-cropped-WhatsApp-Image-2026-11-04-at-10.44.22.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055592",
+      "filename": "1795523055590-cropped-image4.jpeg",
+      "originalName": "cropped-image4.jpeg",
+      "url": "/uploads/gallery/1795523055590-cropped-image4.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055603",
+      "filename": "1795523055600-cropped-image6.jpeg",
+      "originalName": "cropped-image6.jpeg",
+      "url": "/uploads/gallery/1795523055600-cropped-image6.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055613",
+      "filename": "1795523055608-cropped-image7.jpeg",
+      "originalName": "cropped-image7.jpeg",
+      "url": "/uploads/gallery/1795523055608-cropped-image7.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055622",
+      "filename": "1795523055619-cropped-image9.jpeg",
+      "originalName": "cropped-image9.jpeg",
+      "url": "/uploads/gallery/1795523055619-cropped-image9.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055632",
+      "filename": "1795523055629-cropped-image15.jpeg",
+      "originalName": "cropped-image15.jpeg",
+      "url": "/uploads/gallery/1795523055629-cropped-image15.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055640",
+      "filename": "1795523055637-cropped-image24.jpeg",
+      "originalName": "cropped-image24.jpeg",
+      "url": "/uploads/gallery/1795523055637-cropped-image24.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523055649",
+      "filename": "1795523055646-cropped-image36.jpeg",
+      "originalName": "cropped-image36.jpeg",
+      "url": "/uploads/gallery/1795523055646-cropped-image36.jpeg",
+      "category": "packing",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180447",
+      "filename": "1795523180444-cropped-image10.jpeg",
+      "originalName": "cropped-image10.jpeg",
+      "url": "/uploads/gallery/1795523180444-cropped-image10.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180456",
+      "filename": "1795523180453-cropped-image11---Copy.jpeg",
+      "originalName": "cropped-image11 - Copy.jpeg",
+      "url": "/uploads/gallery/1795523180453-cropped-image11---Copy.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180467",
+      "filename": "1795523180464-cropped-image11.jpeg",
+      "originalName": "cropped-image11.jpeg",
+      "url": "/uploads/gallery/1795523180464-cropped-image11.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180478",
+      "filename": "1795523180473-cropped-image12.jpeg",
+      "originalName": "cropped-image12.jpeg",
+      "url": "/uploads/gallery/1795523180473-cropped-image12.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180486",
+      "filename": "1795523180483-cropped-image16.jpeg",
+      "originalName": "cropped-image16.jpeg",
+      "url": "/uploads/gallery/1795523180483-cropped-image16.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180494",
+      "filename": "1795523180492-cropped-image18.jpeg",
+      "originalName": "cropped-image18.jpeg",
+      "url": "/uploads/gallery/1795523180492-cropped-image18.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180500",
+      "filename": "1795523180499-cropped-image23.jpeg",
+      "originalName": "cropped-image23.jpeg",
+      "url": "/uploads/gallery/1795523180499-cropped-image23.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180509",
+      "filename": "1795523180506-cropped-image24.jpeg",
+      "originalName": "cropped-image24.jpeg",
+      "url": "/uploads/gallery/1795523180506-cropped-image24.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180514",
+      "filename": "1795523180512-cropped-image25.jpeg",
+      "originalName": "cropped-image25.jpeg",
+      "url": "/uploads/gallery/1795523180512-cropped-image25.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180521",
+      "filename": "1795523180518-cropped-image26.jpeg",
+      "originalName": "cropped-image26.jpeg",
+      "url": "/uploads/gallery/1795523180518-cropped-image26.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180529",
+      "filename": "1795523180527-cropped-image27.jpeg",
+      "originalName": "cropped-image27.jpeg",
+      "url": "/uploads/gallery/1795523180527-cropped-image27.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180536",
+      "filename": "1795523180533-cropped-image30.jpeg",
+      "originalName": "cropped-image30.jpeg",
+      "url": "/uploads/gallery/1795523180533-cropped-image30.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180545",
+      "filename": "1795523180543-cropped-image36.jpeg",
+      "originalName": "cropped-image36.jpeg",
+      "url": "/uploads/gallery/1795523180543-cropped-image36.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180551",
+      "filename": "1795523180549-cropped-image37.jpeg",
+      "originalName": "cropped-image37.jpeg",
+      "url": "/uploads/gallery/1795523180549-cropped-image37.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180560",
+      "filename": "1795523180558-cropped-ejyrgb.jpeg",
+      "originalName": "cropped-ejyrgb.jpeg",
+      "url": "/uploads/gallery/1795523180558-cropped-ejyrgb.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180566",
+      "filename": "1795523180564-cropped-eyhgbtghbhyertrht.jpeg",
+      "originalName": "cropped-eyhgbtghbhyertrht.jpeg",
+      "url": "/uploads/gallery/1795523180564-cropped-eyhgbtghbhyertrht.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180575",
+      "filename": "1795523180572-cropped-eyr5hryyhwwtt64tggt.jpeg",
+      "originalName": "cropped-eyr5hryyhwwtt64tggt.jpeg",
+      "url": "/uploads/gallery/1795523180572-cropped-eyr5hryyhwwtt64tggt.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    },
+    {
+      "id": "1795523180582",
+      "filename": "1795523180580-cropped-gadsvcxztedsf.jpeg",
+      "originalName": "cropped-gadsvcxztedsf.jpeg",
+      "url": "/uploads/gallery/1795523180580-cropped-gadsvcxztedsf.jpeg",
+      "category": "moving",
+      "isLegacy": false
+    }
+  ],
+  "settings": {
+    "siteName": "",
+    "tagline": "",
+    "phone": "",
+    "phone2": "",
+    "whatsapp": "",
+    "email": "",
+    "instagram": "https://www.instagram.com/onthemove_sa?exln=MWVtdWlkdWpvMHdobg==",
+    "tiktok": "https://www.tiktok.com/@onthemove_za?_r=1&_t=ZS-9B9MYUmlFV1",
+    "facebook": "https://www.facebook.com/share/1EtRPZ6c1C/?mibextid=wwXIfr",
+    "areas": "",
+    "calloutFee": ""
+  }
+}
